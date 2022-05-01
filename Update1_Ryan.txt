@@ -1,0 +1,3 @@
+Update 1
+-Added headings and titles for diagram that tracks items and money
+-Added more layouts and lists
