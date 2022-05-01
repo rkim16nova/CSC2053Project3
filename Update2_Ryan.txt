@@ -1,0 +1,10 @@
+
+Note to Professor: We were experimenting and realized that WebFlow is best utilized as a portfolio/collection website, not a personal accounting sheet website,
+so we switched our website to a music collection website that displays a grid of songs/albums, and clicking on each album will direct user to a new page. The
+website will be much more professional and usable that way.
+
+Updates:
+-Created a grid that displays images of the songs/albums selected for the website
+-Created a unique header in the upper-left side of the page
+-Created titles underneath each image to show the name of the song/album
+-Tweaked with the website a little to make it look professional
