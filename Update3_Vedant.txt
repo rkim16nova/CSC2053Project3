@@ -1,0 +1,13 @@
+Update from Vedant
+
+Saw Ryan's work on Webflow with new project related to songs as discussed.
+
+Proceeded to understand CMS collections.
+
+Formatted the grid for each item in the collection.
+
+Created a base collection of a few songs.
+
+Created a standard page for a song item, then linked it to the songs collection.
+
+Tweaked around with song item page till it looked decent.
